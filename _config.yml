@@ -26,6 +26,7 @@ url: "https://elektronikladan.se" # the base hostname & protocol for your site, 
 #github_username:  elektronikladan
 #linkedin_username: albertskog
 lang: sv
+logo: assets/img/logo-v1.png
 
 # Build settings
 markdown: kramdown

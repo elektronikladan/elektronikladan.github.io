@@ -3,6 +3,18 @@
 
 @import "minima";
 
+.logo {
+    height: 1em;
+    margin-right: 0.2em;
+}
+
+.site-title, .site-title:visited {
+    color: #000000;
+    font-family: "Liberation Sans", Helvetica, "Helvetica Neue", Arial, sans-serif;
+    display: flex;
+    align-items: center;
+}
+
 /* To center images */
 .center {
     text-align: center;
