@@ -3,7 +3,7 @@ layout: home
 ---
 
 {: .center}
-![bild](assets/img/iconfinder_Microchip_379438.png)
+![chip](assets/img/chip.png)
 
 Elektroniklådan hjälper dig med utveckling av elektronik - allt från prototyp till serietillverkning.
 
